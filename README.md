@@ -17,10 +17,6 @@
 
 Full Stack Developer with more than six years of experience building, integrating, deploying, and maintaining web applications, SaaS platforms, WordPress websites, mobile applications, and automated systems. I own features from requirements and architecture through implementation, testing, production support, and client delivery.
 
-- 🔭 I’m currently building **AnalySEO**, an AI powered SEO SaaS that turns Google Search Console and Analytics data into audits and growth recommendations
-
-- 💼 Full Stack Developer at **SFX Small Business**, working on client platforms with Next.js, React, TypeScript, FastAPI, Python, MySQL and Cloudflare
-
 - 🌱 I’m currently deepening my work with **Flutter** and **AI powered products**
 
 - 👨‍💻 All of my work is showcased at **[richweb5.github.io](https://richweb5.github.io/)**
